@@ -1,5 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+The project makes use of JSONPlaceholder Sample APIs from the website (https://jsonplaceholder.typicode.com/).
+
+All the data on the web app shown is taken from the JSONPlaceholder website.
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
